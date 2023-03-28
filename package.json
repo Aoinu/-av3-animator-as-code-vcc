@@ -1,0 +1,18 @@
+{
+	"name" : "com.unity.hai-vr.av3-animator-as-code",
+	"displayName" : "Animator As Code",
+	"version" : "0.1.0",
+	"unity" : "2019.4",
+	"description" : "A small Unity Editor facility to generate Avatars 3.0 Animator layers and animations from a fluent builder syntax written in C#.",
+	"vrchatVersion" : "2022.1.1",
+	"author" : {
+		"name" : "hai-vr",
+		"url" : "https://github.com/hai-vr"
+	},
+	"dependencies" : {
+		"com.unity.nuget.newtonsoft-json": "2.0.0"
+	},
+	"vpmDependencies": {
+		"com.vrchat.avatars": ">=3.1.9"
+	}
+}

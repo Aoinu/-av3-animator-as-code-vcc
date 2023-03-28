@@ -1,1 +1,1 @@
-# -av3-animator-as-code-vcc
+# av3-animator-as-code-vcc
